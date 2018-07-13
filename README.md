@@ -1,6 +1,8 @@
 # ECNU-Network-Authentication-Script
 华东师范大学上网认证系统脚本
 
+具体教程见博客：https://blog.csdn.net/u012328159/article/details/81034763
+
 ecnu_login.py 为部署在服务器上登录脚本
 
 ecnu_logout.py 为部署在服务器上登出脚本
